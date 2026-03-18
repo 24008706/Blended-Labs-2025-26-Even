@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: muthurevula sahihti________________________________
+* **Register Number**: ____212224040208_________________
+* **Date of Submission**: __18\03\2026________________
 
 ---
 
@@ -92,22 +92,17 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 ### Screenshot 1: EBS Volume Created
 
-(Insert Screenshot Here)
-
----
+<img width="1273" height="717" alt="image" src="https://github.com/user-attachments/assets/ab52c393-31bc-44ab-83a2-d01b9063066f" />
 
 ### Screenshot 2: EBS Volume Attached to EC2
 
-(Insert Screenshot Here)
+<img width="1282" height="698" alt="image" src="https://github.com/user-attachments/assets/3bd1df0f-91a0-49d0-9e87-2b9b2ab015b3" />
 
----
 
 ### Screenshot 3: Mounted Volume with Data
+<img width="1263" height="672" alt="image" src="https://github.com/user-attachments/assets/2e52c4f6-1606-4365-9072-bdaeb69aa0cd" />
 
-(Insert Screenshot Here)
 
----
-
-## Result / Conclusion
+onclusion
 
 This experiment demonstrated how Amazon EBS provides persistent storage for EC2 instances. By creating, attaching, formatting, and mounting an EBS volume, and by verifying data after reboot, the concept of durable block storage in the cloud was clearly understood.
